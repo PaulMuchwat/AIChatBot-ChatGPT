@@ -18,8 +18,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.green,
         useMaterial3: true,
       ),
-      home: ChatScreen(),
+      home: const ChatScreen(),
     );
   }
 }
-
