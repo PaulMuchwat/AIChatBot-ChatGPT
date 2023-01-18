@@ -1,4 +1,3 @@
+Conversational AI Chatbot with OpenAI's GPT-3 language model built using the Flutter framework.
 
-#� �C�h�a�t�G�P�T�-�A�I� �C�h�a�t�b�o�t� �A�p�p�
-�
-�
+Generate OpenAI access token here https://beta.openai.com/account/api-keys and replace the existing token.
